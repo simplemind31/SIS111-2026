@@ -1,0 +1,26 @@
+{
+  "name": "sis111-2026",
+  "version": "1.0.0",
+  "description": "Stack Trabajo\r - Visual Studio\r - Python 1\r - Typestricpt 2\r - C++ Alternativo --> Instalacion Package\r - nodejs npm o yarn\r npm install -g npm\r Set-ExecutionPolicy -ExcecutionPolicy Re\r empezar proyecto\r npm init -y\r npm install -D typescript tsx @types/node\r npm i --save-dev @types/node\r npx tsx calculadora.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplemind31/SIS111-2026.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/simplemind31/SIS111-2026/issues"
+  },
+  "homepage": "https://github.com/simplemind31/SIS111-2026#readme",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
